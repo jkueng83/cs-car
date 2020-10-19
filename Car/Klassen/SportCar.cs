@@ -13,7 +13,7 @@ namespace Car.Klassen
 
         }
 
-        //protected override void WriteCarData()
+      //  protected override void WriteCarData()
       //  {
       //      Console.WriteLine("I am a supercar");
       //  }

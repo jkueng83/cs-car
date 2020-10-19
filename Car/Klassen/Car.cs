@@ -7,7 +7,6 @@ namespace Car.Klassen
     class Car
     {
 
-
         private String brand;
         private String type;
         private int horsePower;
@@ -25,8 +24,7 @@ namespace Car.Klassen
         {
             get { return this.brand; }
             set { this.brand = value; }
-
-
+            
         }
 
         public String Type
