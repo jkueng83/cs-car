@@ -1,0 +1,13 @@
+C:\03_Coding\02 Projects\C#\Car\Car\Car\bin\Debug\netcoreapp3.1\Car.exe
+C:\03_Coding\02 Projects\C#\Car\Car\Car\bin\Debug\netcoreapp3.1\Car.deps.json
+C:\03_Coding\02 Projects\C#\Car\Car\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.json
+C:\03_Coding\02 Projects\C#\Car\Car\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.dev.json
+C:\03_Coding\02 Projects\C#\Car\Car\Car\bin\Debug\netcoreapp3.1\Car.dll
+C:\03_Coding\02 Projects\C#\Car\Car\Car\bin\Debug\netcoreapp3.1\Car.pdb
+C:\03_Coding\02 Projects\C#\Car\Car\Car\obj\Debug\netcoreapp3.1\Car.csprojAssemblyReference.cache
+C:\03_Coding\02 Projects\C#\Car\Car\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfoInputs.cache
+C:\03_Coding\02 Projects\C#\Car\Car\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfo.cs
+C:\03_Coding\02 Projects\C#\Car\Car\Car\obj\Debug\netcoreapp3.1\Car.csproj.CoreCompileInputs.cache
+C:\03_Coding\02 Projects\C#\Car\Car\Car\obj\Debug\netcoreapp3.1\Car.dll
+C:\03_Coding\02 Projects\C#\Car\Car\Car\obj\Debug\netcoreapp3.1\Car.pdb
+C:\03_Coding\02 Projects\C#\Car\Car\Car\obj\Debug\netcoreapp3.1\Car.genruntimeconfig.cache
